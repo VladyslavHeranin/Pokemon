@@ -18,3 +18,4 @@
  * Я не вклався в терміни тому стилі відображені не коректно , але той самий проект я накидав на 
   ( JS HTML та CSS ) ось на нього посилання ( https://github.com/VladyslavHeranin/pokemonStyle )
    там коректно відображена адаптація , але дуже примітівній JS 
+* Посилання через git hub pages ( https://vladyslavheranin.github.io/pokemonStyle/ )
