@@ -12,10 +12,10 @@
   кліку на кнопку змінюваті посилання через useState , а в хук 
   UseEffect , в його другий аргумент передавати массив з змінним хуком 
   
-* ця сторінка завантажена на Github pages , але в браузеры Chrome не відкрівается 100% відображаєтся в Opera
- ПОСИЛАННЯ ( https://vladyslavheranin.github.io/pokemon/ )
+* ця сторінка завантажена на Github pages посилання ( https://vladyslavheranin.github.io/pokemon/ )
  
  * Я не вклався в терміни тому стилі відображені не коректно , але той самий проект я накидав на 
   ( JS HTML та CSS ) ось на нього посилання ( https://github.com/VladyslavHeranin/pokemonStyle )
    там коректно відображена адаптація , але дуже примітівній JS 
-* Посилання через git hub pages ( https://vladyslavheranin.github.io/pokemonStyle/ )
+   
+* Посилання через git hub pages  ( https://vladyslavheranin.github.io/pokemonStyle/ )
