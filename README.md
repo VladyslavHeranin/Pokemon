@@ -13,3 +13,4 @@
   UseEffect , в його другий аргумент передавати массив з змінним хуком 
   
 * ця сторінка завантажена на Github pages , але в браузеры Chrome не відкрівается 100% відображаєтся в Opera
+ ПОСИЛАННЯ ( https://vladyslavheranin.github.io/pokemon/ )
